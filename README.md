@@ -80,11 +80,4 @@ To deliver a clear, interactive visual tool that:
 
 | Dashboard Preview |
 |-------------------|
-| ![Dashboard Preview](assets/Super-store Dashboard.png) |
-
-*(Replace the `assets/dashboard-preview.png` with your actual image path)*
-
----
-
-## 📁 Repository Structure
-
+| ![Dashboard Preview](https://github.com/utkarsh2035/Global-Superstore-Dasboard/blob/main/Super-store%20Dashboard.png) |
